@@ -3,7 +3,7 @@
 |Tiêu chí|Bảng Excel 50 hàng|Bar Chart có highlight|
 |-|-|-|
 |Thuyết phục|Thấp|Cao|
-|Tốc độ hiểuChậm|Nhanh||
+|Tốc độ hiểu|Chậm|Nhanh|
 |Trực quan|Rối mắt|Dễ nhìn|
 |Ghi nhớ|Khó nhớ|Dễ nhớ|
 
